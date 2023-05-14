@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34569ddb84e20304981812b1c448d930, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: 
+  _barcode:
+    _id: c1534c5a-282b-4430-b009-58954b617461
+    generated: 1
+  _barcodeOld:
+    _id: c1534c5a-282b-4430-b009-58954b617461
+    generated: 1
+  _slimCode:
+    _byteArray: 30dfb2e3ce96994cb6439bf7c8a376d5
+  _title: Katana
+  _description: 
+  _unlockable: 1
+  _redacted: 0
+  _pallet: {fileID: 0}
+  _tags:
+  - Weapon
+  - Blade
+  _mainAsset:
+    _assetGUID: 6173824ffd7a4b843b319b0e9fefbe52
+    _editorAssetChanged: 0
+  _previewMesh:
+    _assetGUID: 85fd586f01e18c6489ca01a1213fddca
+    _editorAssetChanged: 0
+  _customQuality: 0
+  _previewMeshQuality: 0.5
+  _maxLODLevel: 0
+  _colliderBounds:
+    m_Center: {x: -0.004028946, y: 0.0039062575, z: 0.00613755}
+    m_Extent: {x: 0.03265819, y: 0.06637953, z: 0.589517}

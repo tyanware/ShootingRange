@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34569ddb84e20304981812b1c448d930, type: 3}
+  m_Name: 590A1
+  m_EditorClassIdentifier: 
+  _barcode:
+    _id: c1534c5a-7f05-402f-9320-609647756e35
+    generated: 1
+  _barcodeOld:
+    _id: c1534c5a-7f05-402f-9320-609647756e35
+    generated: 1
+  _slimCode:
+    _byteArray: ed7323de4fcec4438d1849d16c417113
+  _title: 590A1
+  _description: 
+  _unlockable: 1
+  _redacted: 0
+  _pallet: {fileID: 0}
+  _tags:
+  - Weapon
+  - Gun
+  - Shotgun
+  _mainAsset:
+    _assetGUID: c3e630ec3695b85438feaf13012b9ed7
+    _editorAssetChanged: 0
+  _previewMesh:
+    _assetGUID: 7b47a512dd3ddbe4d87818b2e1e93a88
+    _editorAssetChanged: 0
+  _customQuality: 0
+  _previewMeshQuality: 0.5
+  _maxLODLevel: 0
+  _colliderBounds:
+    m_Center: {x: -0.00023643859, y: -0.0021206737, z: 0.11806935}
+    m_Extent: {x: 0.025078366, y: 0.12804723, z: 0.5220447}
